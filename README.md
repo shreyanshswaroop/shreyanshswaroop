@@ -1,4 +1,4 @@
-### Hi im Shreyansh Swaroop 
+### Hi Shreyansh Swaroop 
 
 <!--
 **shreyanshswaroop/shreyanshswaroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-🔭 I’m a final year computer science student at Netaji Subhas University of Technology, New Delhi<br>👯  
+#  About Me:
+🔭 Hello! I'm Shreyansh, a passionate and dedicated computer science student currently pursuing my degree at Netaji Subhas University of Technology ,New Delhi. My journey in the realm of technology began at a young age when I first tinkered with computers, and this curiosity has evolved into a profound interest in software development, artificial intelligence, and Web Development 
 
 
 ## 🌐 Socials:
