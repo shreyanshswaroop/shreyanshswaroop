@@ -1,142 +1,120 @@
-<h1 align="center">Hi 👋, I'm Shreyansh Swaroop</h1>
+# Hi 👋, I'm Shreyansh Swaroop
 
-<h3 align="center">
-Full Stack Engineer | DevOps & Cloud | AI Engineering
-</h3>
+### Full Stack Engineer | DevOps & Cloud | AI Engineering
 
 ---
 
 # 🚀 About Me
 
-- 💻 Building production-ready Full Stack & AI applications
-- ☁️ Passionate about Cloud Infrastructure and DevOps
-- 🤖 Working with LLMs, RAG, Vector Databases & AI Systems
-- 🐳 Deploying applications using Docker & Kubernetes
-- ⚙️ Building CI/CD pipelines with GitHub Actions
-- 🌱 Currently learning AWS, Terraform and Production Infrastructure
-- 🎯 Interested in Backend Systems, Distributed Systems and Cloud Architecture
+- Full Stack Engineer focused on building scalable web applications and cloud-native systems
+- Building AI-powered applications using LLMs, RAG, Vector Search, and modern backend architectures
+- Designing and deploying containerized applications with Docker and Kubernetes
+- Creating CI/CD pipelines and automated deployment workflows with GitHub Actions
+- Working with cloud infrastructure, Linux servers, and production-ready deployments
+- Passionate about backend engineering, DevOps, distributed systems, and AI
 
 ---
 
-# 🛠 Core Stack
+# 🛠️ Core Stack
 
-### Languages
-
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- C#
-
-### Frontend
-
-- React
+### Full Stack
 - Next.js
-- Tailwind CSS
-
-### Backend
-
+- React
 - FastAPI
 - Node.js
-- Express
-- ASP.NET Core
-
-### Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### AI
-
-- OpenAI APIs
-- RAG
-- LangChain
-- Vector Search
-- Embeddings
-- LLM Applications
+- Express.js
 
 ### DevOps
-
 - Docker
 - Kubernetes
-- Terraform
 - GitHub Actions
+- Terraform
 - Linux
 - Nginx
-- Render
+
+### Cloud
+- AWS (Currently Learning)
 - Vercel
+- Render
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### AI
+- OpenAI APIs
+- RAG
+- Vector Search
+- Embeddings
+- LangChain
+- AI Agents
 
 ---
 
 # 🔥 Featured Projects
 
-## 🚀 AtlasCore — AI Research Intelligence Platform
+## 🔹 AtlasCore — AI Research Intelligence Platform
 
-Production-ready AI platform that aggregates papers, news, GitHub trends, Reddit discussions and model releases into a unified dashboard.
+Production-ready AI intelligence platform that aggregates research papers, AI news, GitHub trends, Reddit discussions, and model releases into a unified dashboard.
 
-**Highlights**
-
-- FastAPI Backend
-- Next.js Frontend
-- PostgreSQL
-- Docker
-- Kubernetes
-- AI Summarization
-- Embeddings
-- Vector Search
-- JWT Authentication
-- REST APIs
+- FastAPI + Next.js architecture
+- PostgreSQL with SQLAlchemy & Alembic
+- AI-powered summarization & embeddings
+- REST APIs with JWT Authentication
+- Dockerized deployment
+- Kubernetes infrastructure (In Progress)
 
 ---
 
-## 🤖 Sentivra AI
+## 🔹 AtlasCore Infrastructure
 
-AI-powered mental wellness platform built with autonomous agents, modern backend architecture and blockchain-backed session storage.
+Production deployment of AtlasCore following DevOps best practices.
 
-**Highlights**
-
-- Node.js
-- Express
-- Gemini/OpenAI
-- Multi-Agent Workflows
-- Smart Contracts
-- Authentication
-- REST APIs
+- Docker & Kubernetes deployment
+- GitHub Actions CI/CD
+- Helm & Terraform (In Progress)
+- Monitoring & scalable deployments
+- Production-ready infrastructure
 
 ---
 
-## ☁️ AtlasCore Infrastructure
+## 🔹 Sentivra AI
 
-Cloud-native deployment of AtlasCore using DevOps best practices.
+AI-powered mental wellness platform powered by autonomous AI agents and blockchain-backed privacy.
 
-**Highlights**
-
-- Docker
-- Kubernetes
-- GitHub Actions
-- Helm
-- Terraform
-- Production Deployments
+- Node.js & Express backend
+- AI-driven conversational workflows
+- Secure authentication & REST APIs
+- Blockchain-based therapy session storage
+- Multi-agent architecture
 
 ---
 
-# 📊 GitHub Stats
+## 🔹 BranchChat
 
-<p align="center">
+Chrome extension that enables context-aware side conversations while browsing AI chat interfaces.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyanshswaroop&show_icons=true&theme=tokyonight"/>
+- Chrome Extension (Manifest V3)
+- React + TypeScript
+- Context-aware conversations
+- Modern browser extension architecture
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshswaroop&layout=compact&theme=tokyonight"/>
+---
 
-</p>
+# 📫 Contact
+
+**LinkedIn:**  
+https://linkedin.com/in/shreyanshswaroop
+
+**GitHub:**  
+https://github.com/shreyanshswaroop
+
+**Portfolio:**  
+https://shreyansh-swaroop.vercel.app
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Goal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshswaroop)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_shreyannsh)
-
----
+Currently building production-grade Full Stack, AI, and DevOps projects while seeking opportunities as a **Software Engineer**, **Full Stack Engineer**, or **Cloud/DevOps Engineer**.
