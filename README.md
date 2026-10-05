@@ -17,14 +17,14 @@
 
 # 🛠️ Core Stack
 
-- **Languages:** Python, JavaScript, TypeScript, SQL, C#
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** FastAPI, Node.js, Express.js, ASP.NET Core
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **AI:** LLMs, RAG, LangChain, Vector Search, Embeddings, AI Agents
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Helm, Terraform
+- **Languages:** Python, JavaScript , C#
+- **Frontend:** React, Next.js,  CSS
+- **Backend:** FastAPI, Node.js , ASP.NET Core
+- **Databases:** PostgreSQL, MongoDB
+- **AI:** LLMs, RAG, LangChain , AI Agents
+- **DevOps:** Docker, Kubernetes, GitHub Actions, , Terraform
 - **Cloud:** AWS (Learning), Vercel, Render
-- **Infrastructure:** Linux, Nginx, REST APIs, JWT Authentication
+- **Infrastructure:** Linux , REST APIs, JWT Authentication
 
 ---
 
