@@ -55,28 +55,6 @@ Production deployment of AtlasCore following DevOps best practices.
 
 ---
 
-## 🔹 Sentivra AI
-
-AI-powered mental wellness platform powered by autonomous AI agents and blockchain-backed privacy.
-
-- Node.js & Express backend
-- AI-driven conversational workflows
-- Secure authentication & REST APIs
-- Blockchain-based therapy session storage
-- Multi-agent architecture
-
----
-
-## 🔹 BranchChat
-
-Chrome extension that enables context-aware side conversations while browsing AI chat interfaces.
-
-- Chrome Extension (Manifest V3)
-- React + TypeScript
-- Context-aware conversations
-- Modern browser extension architecture
-
----
 
 # 📫 Contact
 
